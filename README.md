@@ -1,6 +1,6 @@
 # ![Laravel AdZone App]
 
-> ### Classified Ad Posting App Using Lrvael 7.
+> ### Classified Ad Posting App Using Laravel 7.
 
 
 
